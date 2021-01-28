@@ -1,1 +1,24 @@
+p {
+  height: 80px;
+  width: 240px;
+  border: 3px solid coral;
+  padding: 10px;
+  margin: 240px auto;
+  font-weight: bold;
+}
 
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Garamond", "Times", serif;
+}
+
+
+.contact {
+  font-size: 18px;
+}
+.contact h1 {
+  font-size: 1.5em;
+}
