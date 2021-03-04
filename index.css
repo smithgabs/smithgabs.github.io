@@ -6,9 +6,10 @@
  max-height: 3000px;
  max-width: 1300px;
  grid-gap: 10px;
- grid-template-areas: "head gif"
-                       "profilepic highlights";
-  grid-template-rows: 600px 600px;
+ grid-template-areas: "head head"
+                       "profilepic gif"
+                       "highlights" "highlights";
+  grid-template-rows: 600px 600px 600px;
   grid-template-columns: 600px 600px; 
  justify-content: center;
 }
@@ -18,6 +19,10 @@ h2 {
   font-color: light blue;
  border-box: gray;
  }
+h1 {
+ font-size: 20px;
+ font-color: dark green;
+ border-box: gray;
 
  
 header {
