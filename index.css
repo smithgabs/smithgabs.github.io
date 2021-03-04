@@ -1,8 +1,8 @@
 #grid {
  display: grid;
  border: 2px blue solid;
- height: 1000px;
- width: 1000px;
+ height: 700px;
+ width: 1300px;
  grid-template: repeat(4, 1fr) / repeat(4, 1fr);
  grid-gap: 10px;
 };
