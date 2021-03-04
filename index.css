@@ -7,7 +7,7 @@
  max-width: 1300px;
  grid-gap: 10px;
  grid-template-areas: "head gif"
-                       "aboutme profilepic";
+                       "profilepic highlights";
   grid-template-rows: 600px 600px;
   grid-template-columns: 600px 600px; 
  justify-content: center;
@@ -35,5 +35,9 @@ header {
  
  .profilepic {
   grid-area: profilepic;
+}
+
+.highlights {
+ grid-area: highlights;
 }
  
