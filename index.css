@@ -21,4 +21,11 @@
  .c {
    grid-area: 3 / 1 / span 1 / span 1;
   };
-
+.head {
+ font-color: blue;
+ font-size: 20px;
+ }
+ .contact{
+  font-size: 15px;
+  font-color: light blue;
+ }
