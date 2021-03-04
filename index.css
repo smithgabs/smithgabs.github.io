@@ -3,7 +3,7 @@
  position: relative;
  margin: auto;
  border: 2px blue solid;
- max-height: 2000px;
+ max-height: 3000px;
  max-width: 1300px;
  grid-gap: 10px;
  grid-template-areas: "head gif"
@@ -16,6 +16,7 @@
 h2 {
   font-size: 15px;
   font-color: light blue;
+ border-box: gray;
  }
 
  
