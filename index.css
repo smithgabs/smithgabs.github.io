@@ -32,6 +32,7 @@ header {
  
 .gif {
   grid-area: gif;
+ padding: 10px;
 } 
  
 .aboutme {
