@@ -7,7 +7,7 @@
  max-width: 1300px;
  grid-gap: 10px;
  grid-template-areas: "head head"
-                       "profilepic gif"
+                       "profilepic game"
                        "highlights" "highlights";
   grid-template-rows: 600px 600px 600px;
   grid-template-columns: 600px 600px; 
@@ -30,7 +30,7 @@ header {
  width: 300px;
 } 
  
-.gif {
+.game {
   grid-area: gif;
  padding: 10px;
 } 
